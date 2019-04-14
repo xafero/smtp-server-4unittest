@@ -1,5 +1,4 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using System.Net;
 using System.Net.Mail;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
